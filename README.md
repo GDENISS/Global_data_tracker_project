@@ -65,7 +65,7 @@ This project analyzes global COVID-19 data to uncover patterns in cases, deaths,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/covid19-global-data-tracker.git
+   git clone https://github.com/GDENISS/covid19-global-data-tracker.git
    cd covid19-global-data-tracker
 2. **covid19-global-data-tracker/**
 ├── covid19_data_tracker.py          # Main analysis script
